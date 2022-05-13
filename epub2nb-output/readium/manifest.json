@@ -1,0 +1,256 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Básně (ze zásuvky)",
+    "identifier": "2d4f9e1f-b77f-4a77-86f2-29daf37eda5d",
+    "author": "Karel Šiktanc",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2020-06-11T00:00:00.000Z",
+    "published": "2020-06-11T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/basne_ze_zasuvky_028.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Básně (ze zásuvky) I.",
+      "children": [
+        {
+          "title": "Smrtelná neděle",
+          "href": "OEBPS/Text/basne_ze_zasuvky_006.html"
+        },
+        {
+          "title": "Všech svatých",
+          "href": "OEBPS/Text/basne_ze_zasuvky_007.html"
+        },
+        {
+          "title": "Zavři",
+          "href": "OEBPS/Text/basne_ze_zasuvky_008.html"
+        },
+        {
+          "title": "Malá smrt",
+          "href": "OEBPS/Text/basne_ze_zasuvky_009.html"
+        },
+        {
+          "title": "Bílá noc",
+          "href": "OEBPS/Text/basne_ze_zasuvky_010.html"
+        },
+        {
+          "title": "(Jsi moje…)",
+          "href": "OEBPS/Text/basne_ze_zasuvky_011.html"
+        },
+        {
+          "title": "(Učil jsem se…)",
+          "href": "OEBPS/Text/basne_ze_zasuvky_012.html"
+        },
+        {
+          "title": "(Antol, Banská Belá…)",
+          "href": "OEBPS/Text/basne_ze_zasuvky_013.html"
+        },
+        {
+          "title": "(Pluje dívka…)",
+          "href": "OEBPS/Text/basne_ze_zasuvky_014.html"
+        },
+        {
+          "title": "(Mrazejk bral svět…)",
+          "href": "OEBPS/Text/basne_ze_zasuvky_015.html"
+        },
+        {
+          "title": "(Byl bál…)",
+          "href": "OEBPS/Text/basne_ze_zasuvky_016.html"
+        },
+        {
+          "title": "Strom platan",
+          "href": "OEBPS/Text/basne_ze_zasuvky_017.html"
+        }
+      ],
+      "href": "OEBPS/Text/basne_ze_zasuvky_005.html"
+    },
+    {
+      "title": "Básně (ze zásuvky) II.",
+      "children": [
+        {
+          "title": "Jaroslavu Seifertovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_019.html"
+        },
+        {
+          "title": "Felixi Vodičkovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_020.html"
+        },
+        {
+          "title": "Bohumilu Hrabalovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_021.html"
+        },
+        {
+          "title": "Oldřichu Mikuláškovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_022.html"
+        },
+        {
+          "title": "Zimní pohádka",
+          "href": "OEBPS/Text/basne_ze_zasuvky_023.html"
+        },
+        {
+          "title": "Emilu Julišovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_024.html"
+        },
+        {
+          "title": "Karlu Peckovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_025.html"
+        },
+        {
+          "title": "Oldřichu Královi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_026.html"
+        },
+        {
+          "title": "Jaroslavu Seifertovi",
+          "href": "OEBPS/Text/basne_ze_zasuvky_027.html"
+        }
+      ],
+      "href": "OEBPS/Text/basne_ze_zasuvky_018.html"
+    }
+  ]
+}

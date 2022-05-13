@@ -1,0 +1,593 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Básně (ze zásuvky)",
+      "identifier": "2d4f9e1f-b77f-4a77-86f2-29daf37eda5d",
+      "author": "Karel Šiktanc",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-06-11T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "basne_ze_zasuvky_001.md",
+            "xhtml": "basne_ze_zasuvky_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_002.md",
+            "xhtml": "basne_ze_zasuvky_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_003.md",
+            "xhtml": "basne_ze_zasuvky_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_004.md",
+            "xhtml": "basne_ze_zasuvky_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_005.md",
+            "xhtml": "basne_ze_zasuvky_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_006.md",
+            "xhtml": "basne_ze_zasuvky_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_007.md",
+            "xhtml": "basne_ze_zasuvky_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_008.md",
+            "xhtml": "basne_ze_zasuvky_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_009.md",
+            "xhtml": "basne_ze_zasuvky_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_010.md",
+            "xhtml": "basne_ze_zasuvky_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_011.md",
+            "xhtml": "basne_ze_zasuvky_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_012.md",
+            "xhtml": "basne_ze_zasuvky_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_013.md",
+            "xhtml": "basne_ze_zasuvky_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_014.md",
+            "xhtml": "basne_ze_zasuvky_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_015.md",
+            "xhtml": "basne_ze_zasuvky_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_016.md",
+            "xhtml": "basne_ze_zasuvky_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_017.md",
+            "xhtml": "basne_ze_zasuvky_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_018.md",
+            "xhtml": "basne_ze_zasuvky_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_019.md",
+            "xhtml": "basne_ze_zasuvky_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_020.md",
+            "xhtml": "basne_ze_zasuvky_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_021.md",
+            "xhtml": "basne_ze_zasuvky_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_022.md",
+            "xhtml": "basne_ze_zasuvky_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_023.md",
+            "xhtml": "basne_ze_zasuvky_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_024.md",
+            "xhtml": "basne_ze_zasuvky_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_025.md",
+            "xhtml": "basne_ze_zasuvky_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_026.md",
+            "xhtml": "basne_ze_zasuvky_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_027.md",
+            "xhtml": "basne_ze_zasuvky_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "basne_ze_zasuvky_028.md",
+            "xhtml": "basne_ze_zasuvky_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Básně (ze zásuvky)",
+      "identifier": "2d4f9e1f-b77f-4a77-86f2-29daf37eda5d",
+      "author": "Karel Šiktanc",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-06-11T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_001.md",
+        "xhtml": "basne_ze_zasuvky_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_002.md",
+        "xhtml": "basne_ze_zasuvky_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_003.md",
+        "xhtml": "basne_ze_zasuvky_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_004.md",
+        "xhtml": "basne_ze_zasuvky_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_005.md",
+        "xhtml": "basne_ze_zasuvky_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_006.md",
+        "xhtml": "basne_ze_zasuvky_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_007.md",
+        "xhtml": "basne_ze_zasuvky_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_008.md",
+        "xhtml": "basne_ze_zasuvky_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_009.md",
+        "xhtml": "basne_ze_zasuvky_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_010.md",
+        "xhtml": "basne_ze_zasuvky_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_011.md",
+        "xhtml": "basne_ze_zasuvky_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_012.md",
+        "xhtml": "basne_ze_zasuvky_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_013.md",
+        "xhtml": "basne_ze_zasuvky_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_014.md",
+        "xhtml": "basne_ze_zasuvky_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_015.md",
+        "xhtml": "basne_ze_zasuvky_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_016.md",
+        "xhtml": "basne_ze_zasuvky_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_017.md",
+        "xhtml": "basne_ze_zasuvky_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_018.md",
+        "xhtml": "basne_ze_zasuvky_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_019.md",
+        "xhtml": "basne_ze_zasuvky_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_020.md",
+        "xhtml": "basne_ze_zasuvky_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_021.md",
+        "xhtml": "basne_ze_zasuvky_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_022.md",
+        "xhtml": "basne_ze_zasuvky_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_023.md",
+        "xhtml": "basne_ze_zasuvky_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_024.md",
+        "xhtml": "basne_ze_zasuvky_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_025.md",
+        "xhtml": "basne_ze_zasuvky_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_026.md",
+        "xhtml": "basne_ze_zasuvky_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_027.md",
+        "xhtml": "basne_ze_zasuvky_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "basne_ze_zasuvky_028.md",
+        "xhtml": "basne_ze_zasuvky_028.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpsiknadp",
+      "mlpsiktancnadpis",
+      "mlpsiktancvenovani",
+      "mlpsiktverseponadpisu",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven1cast",
+      "mlpuroven2basne",
+      "mlpverse",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "siktanc-basne-ze-zasuvky"
+    },
+    "generatedAt": 1652420544640
+  }
+}

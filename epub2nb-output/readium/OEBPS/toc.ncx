@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="2d4f9e1f-b77f-4a77-86f2-29daf37eda5d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Básně (ze zásuvky)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Básně (ze zásuvky) I.</text>
+      </navLabel>
+      <content src="Text/basne_ze_zasuvky_005.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Smrtelná neděle</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Všech svatých</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Zavři</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Malá smrt</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Bílá noc</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>(Jsi moje…)</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>(Učil jsem se…)</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>(Antol, Banská Belá…)</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>(Pluje dívka…)</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>(Mrazejk bral svět…)</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>(Byl bál…)</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Strom platan</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_017.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Básně (ze zásuvky) II.</text>
+      </navLabel>
+      <content src="Text/basne_ze_zasuvky_018.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Jaroslavu Seifertovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Felixi Vodičkovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Bohumilu Hrabalovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Oldřichu Mikuláškovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Zimní pohádka</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Emilu Julišovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Karlu Peckovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_025.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Oldřichu Královi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_026.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Jaroslavu Seifertovi</text>
+        </navLabel>
+        <content src="Text/basne_ze_zasuvky_027.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
