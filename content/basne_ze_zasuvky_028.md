@@ -1,9 +1,10 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Karel Šiktanc  
-Básně (ze zásuvky)
+**Karel Šiktanc  
+Básně (ze zásuvky)**
 
 Edice Současná česká poezie
 

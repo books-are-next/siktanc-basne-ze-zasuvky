@@ -1,7 +1,6 @@
 ---
+title: Básně (ze zásuvky) II\.
 contentType: prose
 ---
 
-# Básně  
-(ze zásuvky)  
-II.
+
