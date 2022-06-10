@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Zimní pohádka
 contentType: prose
 ---
 
-## Zimní pohádka
+<section>
 
 Janu Skácelovi
 
@@ -114,3 +114,5 @@ a
 
 — mordy v nebesích —  
 řvali jak na lesích své velkolepé sólo.
+
+</section>

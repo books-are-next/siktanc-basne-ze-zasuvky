@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Strom platan
 
      Za smírčím křížem řidl svatvečer  
@@ -176,3 +178,5 @@ spatřil jsem fraucimór Johannu Šílenou…
      sukni až pod bradu —  
 nesla mi po špičkách v nevěstím kostýmku  
 polibek na plná ústa.
+
+</section>

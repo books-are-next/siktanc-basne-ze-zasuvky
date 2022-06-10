@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Malá smrt
 
 Včera mi umřelo   Zbyl po něm zub,  
@@ -40,3 +42,5 @@ Jedna to věděla   (snad že je neměla)
 Že si je křtí   To holátko  
 Ten outěžek   Ty nebesa  
 A že je nedonosí
+
+</section>

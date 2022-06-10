@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## \* \* \*
 
 Byl bál   Byl krajkovej  
@@ -31,3 +33,5 @@ Sec mazec v holínkách
 Sec laudon v papaše
 
 A les se rozplakal jak živý stvoření
+
+</section>

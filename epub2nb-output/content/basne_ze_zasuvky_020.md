@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Felixi Vodičkovi
 
 Hledal jsem po Čechách potměchuť.  
@@ -28,3 +30,5 @@ Chodím tam klečet.
 V rukou bílý list,  
 který jsem kdysi darem vzal  
 od svého profesora.
+
+</section>

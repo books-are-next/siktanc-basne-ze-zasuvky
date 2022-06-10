@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Jaroslavu Seifertovi
 
 „Otci se nelže!“,  
@@ -37,3 +39,5 @@ Pámbumuodpusť.
 Klečí, přísahá:  
 „Já od vás nikdy v životě  
 neopsal ani řádku!“
+
+</section>

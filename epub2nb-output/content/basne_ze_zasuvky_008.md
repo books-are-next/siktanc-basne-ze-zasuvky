@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Zavři
 
 Zavři.  
@@ -49,3 +51,5 @@ Směj
 se.  
 Budem lhát si,   co jsme všechno chtěli.  
 Jestli si vzpomenem.
+
+</section>

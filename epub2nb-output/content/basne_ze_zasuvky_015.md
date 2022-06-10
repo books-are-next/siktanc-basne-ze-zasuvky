@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## \* \* \*
 
 (Mrazejk bral svět do plátýnka      nic  
@@ -97,3 +99,5 @@ k zemi
 „Tři korunky,  
 babí trůn…  
 dědek přišel o rozum!“
+
+</section>
