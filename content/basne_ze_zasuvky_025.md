@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Karlu Peckovi
 
 Je dlouhá zima.  
@@ -28,3 +30,5 @@ patama bije o škopíček špíny.
 Až budeš na kost,  
 stopni Malý Vůz.  
 Zazpíváme si Mokasíny.
+
+</section>

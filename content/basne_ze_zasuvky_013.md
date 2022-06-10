@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## \* \* \*
 
 Antol,  
@@ -36,3 +38,5 @@ Vítkův kámen…
 
 kéž ta řeč mi věrná  
 až navěky ámen.
+
+</section>

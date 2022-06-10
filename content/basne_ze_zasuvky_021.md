@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Bohumilu Hrabalovi
 
 Posílám ti tři kostrbaté křížky  
@@ -28,3 +30,5 @@ Aby tě uřkly.   Abys pootevřel
 síň —
 
 a strýc tam klel jak pámbu.
+
+</section>

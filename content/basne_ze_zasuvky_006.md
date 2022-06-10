@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Smrtelná neděle
 
 Svlékáš se z dechů, korálů a rzí  
@@ -44,3 +46,5 @@ Do čtyř stran světa, smrtelná, se skvíš.
 
      Jsem tu jen host.   Však jsem tvá  
 smrt   a mám tu moc tu ještě zdržet hvězdy.
+
+</section>
