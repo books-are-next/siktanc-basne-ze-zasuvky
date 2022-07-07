@@ -9,7 +9,7 @@ contentType: prose
 
 Učil jsem se řeči stromů.  
 Abych věděl,  
-                      kudy domů.  
+             kudy domů.  
 Abych slyšel, čím se v bouři  
 zaříkají lesy.
 
@@ -24,7 +24,7 @@ Běsy.
 
 Učil jsem se řeči vody.  
 Abych věděl,  
-                      kudy chodí.  
+             kudy chodí.  
 Abych slyšel, co si ryby  
 povídají u dna.
 
@@ -39,7 +39,7 @@ Rudná.
 
 Učil jsem se řeči proutí.  
 Abych uměl  
-                      neusnouti.  
+             neusnouti.  
 Abych slyšel, co si v sadě  
 šumí bílé bezy.
 
