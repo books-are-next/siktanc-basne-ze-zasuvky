@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Malá smrt
+contentType: poetry
 ---
 
 <section>
-
-## Malá smrt
 
 Včera mi umřelo   Zbyl po něm zub,  
 mlíčňáček zub   a ticho, v kterém hlodá  

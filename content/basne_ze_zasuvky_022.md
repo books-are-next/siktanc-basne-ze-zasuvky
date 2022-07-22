@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Oldřichu Mikuláškovi
+contentType: poetry
 ---
 
 <section>
-
-Oldřichu Mikuláškovi
 
 Slovo mě tíží  
 jak zlý skutek.  

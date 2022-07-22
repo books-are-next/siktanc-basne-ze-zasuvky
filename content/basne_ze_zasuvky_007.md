@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Všech svatých
+contentType: poetry
 ---
 
 <section>
-
-## Všech svatých
 
 Vane vítr od Sodomy,
 

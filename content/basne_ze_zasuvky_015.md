@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 (Mrazejk bral svět do plátýnka      nic  
 do holý ruky             Šel jsem domů

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Smrtelná neděle
+contentType: poetry
 ---
 
 <section>
-
-## Smrtelná neděle
 
 Svlékáš se z dechů, korálů a rzí  
      a já tvé nohy bělostné  

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Emilu Julišovi
+contentType: poetry
 ---
 
 <section>
-
-Emilu Julišovi
 
 Když se mi kolikrát k večeru   křičet chce  
      na celou vesnici,  

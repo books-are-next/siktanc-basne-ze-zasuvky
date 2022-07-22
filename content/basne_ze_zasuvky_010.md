@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Bílá noc
+contentType: poetry
 ---
 
 <section>
-
-## Bílá noc
 
 Klenotná Praha spí.
 
