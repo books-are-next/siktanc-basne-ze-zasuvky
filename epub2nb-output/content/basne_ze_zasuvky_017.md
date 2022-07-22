@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Strom platan
+contentType: poetry
 ---
 
 <section>
 
-## Strom platan
-
-     Za smírčím křížem řidl svatvečer  
+Za smírčím křížem řidl svatvečer  
 i les.  
      Sykl jsem v úleku před obřím platanem —  
 ve druhém korunním patře,  

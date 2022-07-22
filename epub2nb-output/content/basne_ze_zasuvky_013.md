@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Antol,  
 Banská Belá,  

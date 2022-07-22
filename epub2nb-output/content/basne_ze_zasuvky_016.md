@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Byl bál   Byl krajkovej  
 Moraně u sudu  

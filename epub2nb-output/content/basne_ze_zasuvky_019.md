@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Jaroslavu Seifertovi
+contentType: poetry
 ---
 
 <section>
-
-Jaroslavu Seifertovi
 
 „Otci se nelže!“,  
 říkala matka —  

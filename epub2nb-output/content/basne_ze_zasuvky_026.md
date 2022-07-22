@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Oldřichu Královi
+contentType: poetry
 ---
 
 <section>
-
-Oldřichu Královi
 
 Tys mlčíval —  
              já držel řeč.  

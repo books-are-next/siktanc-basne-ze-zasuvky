@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Učil jsem se řeči stromů.  
 Abych věděl,  

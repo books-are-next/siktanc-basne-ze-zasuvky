@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Karlu Peckovi
+contentType: poetry
 ---
 
 <section>
-
-Karlu Peckovi
 
 Je dlouhá zima.  
 Venuše z Melu chodí ve svetru,  

@@ -1,6 +1,6 @@
 ---
 title: Básně (ze zásuvky) I\.
-contentType: prose
+contentType: poetry
 ---
 
 

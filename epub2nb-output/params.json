@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Básně (ze zásuvky)",
       "identifier": "2d4f9e1f-b77f-4a77-86f2-29daf37eda5d",
       "author": "Karel Šiktanc",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-06-11T00:00:00.000Z"
+      "modified": "2020-06-11T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nmlpsiktancnadpis\nmlpsiknadp",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*\nmlpsiktverseponadpisu\nmlpverse",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpsiktancvenovani",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "basne_ze_zasuvky_001.md",
             "xhtml": "basne_ze_zasuvky_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_002.md",
             "xhtml": "basne_ze_zasuvky_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_003.md",
             "xhtml": "basne_ze_zasuvky_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_004.md",
             "xhtml": "basne_ze_zasuvky_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Básně (ze zásuvky) I\\."
           },
           {
             "filename": "basne_ze_zasuvky_006.md",
@@ -97,7 +108,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_007.md",
@@ -108,7 +120,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_008.md",
@@ -119,7 +132,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_009.md",
@@ -130,7 +144,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_010.md",
@@ -141,7 +156,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_011.md",
@@ -152,7 +168,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_012.md",
@@ -163,7 +180,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_013.md",
@@ -174,7 +192,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_014.md",
@@ -185,7 +204,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_015.md",
@@ -196,7 +216,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_016.md",
@@ -207,7 +228,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_017.md",
@@ -218,7 +240,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_018.md",
@@ -229,7 +252,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Básně (ze zásuvky) II\\."
           },
           {
             "filename": "basne_ze_zasuvky_019.md",
@@ -240,7 +265,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_020.md",
@@ -251,7 +277,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_021.md",
@@ -262,7 +289,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_022.md",
@@ -273,7 +301,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_023.md",
@@ -284,7 +313,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zimní pohádka"
           },
           {
             "filename": "basne_ze_zasuvky_024.md",
@@ -295,7 +326,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_025.md",
@@ -306,7 +338,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_026.md",
@@ -317,7 +350,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_027.md",
@@ -328,7 +362,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "basne_ze_zasuvky_028.md",
@@ -339,7 +374,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -385,73 +421,73 @@
         "xhtml": "basne_ze_zasuvky_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Smrtelná neděle",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_006.md",
         "xhtml": "basne_ze_zasuvky_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Všech svatých",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_007.md",
         "xhtml": "basne_ze_zasuvky_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zavři",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_008.md",
         "xhtml": "basne_ze_zasuvky_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malá smrt",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_009.md",
         "xhtml": "basne_ze_zasuvky_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bílá noc",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_010.md",
         "xhtml": "basne_ze_zasuvky_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_011.md",
         "xhtml": "basne_ze_zasuvky_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_012.md",
         "xhtml": "basne_ze_zasuvky_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_013.md",
         "xhtml": "basne_ze_zasuvky_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_014.md",
         "xhtml": "basne_ze_zasuvky_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_015.md",
         "xhtml": "basne_ze_zasuvky_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_016.md",
         "xhtml": "basne_ze_zasuvky_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Strom platan",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_017.md",
         "xhtml": "basne_ze_zasuvky_017.html"
@@ -463,25 +499,25 @@
         "xhtml": "basne_ze_zasuvky_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jaroslavu Seifertovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_019.md",
         "xhtml": "basne_ze_zasuvky_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Felixi Vodičkovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_020.md",
         "xhtml": "basne_ze_zasuvky_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bohumilu Hrabalovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_021.md",
         "xhtml": "basne_ze_zasuvky_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Oldřichu Mikuláškovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_022.md",
         "xhtml": "basne_ze_zasuvky_022.html"
@@ -493,25 +529,25 @@
         "xhtml": "basne_ze_zasuvky_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Emilu Julišovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_024.md",
         "xhtml": "basne_ze_zasuvky_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Karlu Peckovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_025.md",
         "xhtml": "basne_ze_zasuvky_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Oldřichu Královi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_026.md",
         "xhtml": "basne_ze_zasuvky_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jaroslavu Seifertovi",
         "subtitleSuggest": "",
         "filename": "basne_ze_zasuvky_027.md",
         "xhtml": "basne_ze_zasuvky_027.html"
@@ -590,6 +626,6 @@
       "user": "books-are-next",
       "repo": "siktanc-basne-ze-zasuvky"
     },
-    "generatedAt": 1658413634901
+    "generatedAt": 1658490995750
   }
 }

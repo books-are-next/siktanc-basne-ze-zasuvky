@@ -1,0 +1,571 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Básně (ze zásuvky)",
+  "author": "Karel Šiktanc",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "siktanc-basne-ze-zasuvky-efbe00b",
+  "revision": "efbe00b",
+  "readingOrder": [
+    "promo.html",
+    "basne_ze_zasuvky_005.html",
+    "basne_ze_zasuvky_006.html",
+    "basne_ze_zasuvky_007.html",
+    "basne_ze_zasuvky_008.html",
+    "basne_ze_zasuvky_009.html",
+    "basne_ze_zasuvky_010.html",
+    "basne_ze_zasuvky_011.html",
+    "basne_ze_zasuvky_012.html",
+    "basne_ze_zasuvky_013.html",
+    "basne_ze_zasuvky_014.html",
+    "basne_ze_zasuvky_015.html",
+    "basne_ze_zasuvky_016.html",
+    "basne_ze_zasuvky_017.html",
+    "basne_ze_zasuvky_018.html",
+    "basne_ze_zasuvky_019.html",
+    "basne_ze_zasuvky_020.html",
+    "basne_ze_zasuvky_021.html",
+    "basne_ze_zasuvky_022.html",
+    "basne_ze_zasuvky_023.html",
+    "basne_ze_zasuvky_024.html",
+    "basne_ze_zasuvky_025.html",
+    "basne_ze_zasuvky_026.html",
+    "basne_ze_zasuvky_027.html",
+    "basne_ze_zasuvky_028.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Jul 22 2022 11:58:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658491083755
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "basne_ze_zasuvky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Básně (ze zásuvky) I.",
+      "file": "basne_ze_zasuvky_005.html",
+      "words": 4,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "basne_ze_zasuvky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Básně (ze zásuvky) I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrtelná neděle",
+      "file": "basne_ze_zasuvky_006.html",
+      "words": 185,
+      "chars": 978,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 2,
+      "prev": "basne_ze_zasuvky_005.html",
+      "next": "basne_ze_zasuvky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrtelná neděle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Všech svatých",
+      "file": "basne_ze_zasuvky_007.html",
+      "words": 166,
+      "chars": 855,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 3,
+      "prev": "basne_ze_zasuvky_006.html",
+      "next": "basne_ze_zasuvky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Všech svatých",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zavři",
+      "file": "basne_ze_zasuvky_008.html",
+      "words": 114,
+      "chars": 589,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 4,
+      "prev": "basne_ze_zasuvky_007.html",
+      "next": "basne_ze_zasuvky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zavři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malá smrt",
+      "file": "basne_ze_zasuvky_009.html",
+      "words": 166,
+      "chars": 815,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 5,
+      "prev": "basne_ze_zasuvky_008.html",
+      "next": "basne_ze_zasuvky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malá smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá noc",
+      "file": "basne_ze_zasuvky_010.html",
+      "words": 135,
+      "chars": 715,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 6,
+      "prev": "basne_ze_zasuvky_009.html",
+      "next": "basne_ze_zasuvky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílá noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_ze_zasuvky_011.html",
+      "words": 82,
+      "chars": 423,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 7,
+      "prev": "basne_ze_zasuvky_010.html",
+      "next": "basne_ze_zasuvky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_ze_zasuvky_012.html",
+      "words": 83,
+      "chars": 465,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 8,
+      "prev": "basne_ze_zasuvky_011.html",
+      "next": "basne_ze_zasuvky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_ze_zasuvky_013.html",
+      "words": 55,
+      "chars": 299,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 9,
+      "prev": "basne_ze_zasuvky_012.html",
+      "next": "basne_ze_zasuvky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_ze_zasuvky_014.html",
+      "words": 88,
+      "chars": 448,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 10,
+      "prev": "basne_ze_zasuvky_013.html",
+      "next": "basne_ze_zasuvky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_ze_zasuvky_015.html",
+      "words": 261,
+      "chars": 1501,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 11,
+      "prev": "basne_ze_zasuvky_014.html",
+      "next": "basne_ze_zasuvky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "basne_ze_zasuvky_016.html",
+      "words": 85,
+      "chars": 440,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 12,
+      "prev": "basne_ze_zasuvky_015.html",
+      "next": "basne_ze_zasuvky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strom platan",
+      "file": "basne_ze_zasuvky_017.html",
+      "words": 913,
+      "chars": 4833,
+      "ideas": 169,
+      "role": "chapter",
+      "order": 13,
+      "prev": "basne_ze_zasuvky_016.html",
+      "next": "basne_ze_zasuvky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strom platan",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Básně (ze zásuvky) II.",
+      "file": "basne_ze_zasuvky_018.html",
+      "words": 4,
+      "chars": 22,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "basne_ze_zasuvky_017.html",
+      "next": "basne_ze_zasuvky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Básně (ze zásuvky) II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jaroslavu Seifertovi",
+      "file": "basne_ze_zasuvky_019.html",
+      "words": 92,
+      "chars": 507,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 15,
+      "prev": "basne_ze_zasuvky_018.html",
+      "next": "basne_ze_zasuvky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jaroslavu Seifertovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Felixi Vodičkovi",
+      "file": "basne_ze_zasuvky_020.html",
+      "words": 92,
+      "chars": 489,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 16,
+      "prev": "basne_ze_zasuvky_019.html",
+      "next": "basne_ze_zasuvky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Felixi Vodičkovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bohumilu Hrabalovi",
+      "file": "basne_ze_zasuvky_021.html",
+      "words": 79,
+      "chars": 422,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 17,
+      "prev": "basne_ze_zasuvky_020.html",
+      "next": "basne_ze_zasuvky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bohumilu Hrabalovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oldřichu Mikuláškovi",
+      "file": "basne_ze_zasuvky_022.html",
+      "words": 104,
+      "chars": 528,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 18,
+      "prev": "basne_ze_zasuvky_021.html",
+      "next": "basne_ze_zasuvky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oldřichu Mikuláškovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zimní pohádka",
+      "file": "basne_ze_zasuvky_023.html",
+      "words": 281,
+      "chars": 1566,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 19,
+      "prev": "basne_ze_zasuvky_022.html",
+      "next": "basne_ze_zasuvky_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zimní pohádka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Emilu Julišovi",
+      "file": "basne_ze_zasuvky_024.html",
+      "words": 90,
+      "chars": 472,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 20,
+      "prev": "basne_ze_zasuvky_023.html",
+      "next": "basne_ze_zasuvky_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Emilu Julišovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Karlu Peckovi",
+      "file": "basne_ze_zasuvky_025.html",
+      "words": 79,
+      "chars": 417,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 21,
+      "prev": "basne_ze_zasuvky_024.html",
+      "next": "basne_ze_zasuvky_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Karlu Peckovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oldřichu Královi",
+      "file": "basne_ze_zasuvky_026.html",
+      "words": 96,
+      "chars": 509,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 22,
+      "prev": "basne_ze_zasuvky_025.html",
+      "next": "basne_ze_zasuvky_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oldřichu Královi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jaroslavu Seifertovi",
+      "file": "basne_ze_zasuvky_027.html",
+      "words": 98,
+      "chars": 517,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 23,
+      "prev": "basne_ze_zasuvky_026.html",
+      "next": "basne_ze_zasuvky_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jaroslavu Seifertovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Básně (ze zásuvky)",
+      "file": "basne_ze_zasuvky_028.html",
+      "words": 47,
+      "chars": 302,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 24,
+      "prev": "basne_ze_zasuvky_027.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 101,
+      "chars": 698,
+      "ideas": 7,
+      "role": "about",
+      "order": null,
+      "prev": "basne_ze_zasuvky_028.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3507,
+      "chars": 18871,
+      "ideas": 815
+    },
+    "chapters": {
+      "words": 3399,
+      "chars": 18133,
+      "ideas": 804
+    }
+  }
+}

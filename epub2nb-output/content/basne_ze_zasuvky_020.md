@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Felixi Vodičkovi
+contentType: poetry
 ---
 
 <section>
-
-Felixi Vodičkovi
 
 Hledal jsem po Čechách potměchuť.  
 Aby se koním leskla srst.  

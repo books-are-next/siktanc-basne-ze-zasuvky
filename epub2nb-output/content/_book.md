@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Básně (ze zásuvky)
   identifier: 2d4f9e1f-b77f-4a77-86f2-29daf37eda5d
   author: Karel Šiktanc
   publisher: Městská knihovna v Praze
   modified: '2020-06-11T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
-  - basne_ze_zasuvky_001.html
-  - basne_ze_zasuvky_002.html
-  - basne_ze_zasuvky_003.html
-  - basne_ze_zasuvky_004.html
   - basne_ze_zasuvky_005.html
   - basne_ze_zasuvky_006.html
   - basne_ze_zasuvky_007.html
@@ -39,10 +39,21 @@ readingOrder:
   - basne_ze_zasuvky_026.html
   - basne_ze_zasuvky_027.html
   - basne_ze_zasuvky_028.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: basne_ze_zasuvky_005.html
+        title: Básně (ze zásuvky) I\.
+        hiddenTitle: false
+      - link: basne_ze_zasuvky_018.html
+        title: Básně (ze zásuvky) II\.
+        hiddenTitle: false
+      - link: basne_ze_zasuvky_023.html
+        title: Zimní pohádka
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

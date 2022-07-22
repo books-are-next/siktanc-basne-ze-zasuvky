@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Bohumilu Hrabalovi
+contentType: poetry
 ---
 
 <section>
-
-Bohumilu Hrabalovi
 
 Posílám ti tři kostrbaté křížky  
 a ten nůž,  

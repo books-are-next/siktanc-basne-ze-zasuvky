@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Zavři
+contentType: poetry
 ---
 
 <section>
-
-## Zavři
 
 Zavři.  
 To už bylo. Kočí jdou  

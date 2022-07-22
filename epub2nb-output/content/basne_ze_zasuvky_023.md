@@ -1,11 +1,11 @@
 ---
 title: Zimní pohádka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Janu Skácelovi
+_Janu Skácelovi_
 
 Ledové, zelené mlíko kanulo z neonů  
 a parkům v očích zamrzaly slzy.

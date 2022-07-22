@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "*\_*\_*"
+contentType: poetry
 ---
 
 <section>
-
-## \* \* \*
 
 Pluje Jívka,  
 Rozkoš pluje,  
