@@ -2,6 +2,17 @@
 title: Tiráž
 ---
 
+**Karel Šiktanc    
+Básně (ze zásuvky)**  
+Edice Současná česká poezie  
+Obálka Jakub Tesař  
+Redakce Jaroslava Bednářová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 2. elektronické vydání z 22. 7. 2022.
+
+***
+
 Znění tohoto textu vychází z díla [Básně (ze zásuvky)](https://search.mlp.cz/cz/titul/paralipomena/2566418/#/getPodobneTituly=deskriptory-eq:138-amp:key-eq:2566418) tak, jak bylo vydáno nakladatelstvím Karolinum v Praze v roce 2006. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
