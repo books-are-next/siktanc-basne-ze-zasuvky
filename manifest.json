@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "siktanc-basne-ze-zasuvky-4d35c46",
-  "revision": "4d35c46",
+  "identifier": "siktanc-basne-ze-zasuvky-04cd841",
+  "revision": "04cd841",
   "readingOrder": [
     "promo.html",
     "basne_ze_zasuvky_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:56:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150985028
+    "date": "Mon Oct 10 2022 15:48:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416906153
   },
   "documents": [
     {
@@ -518,7 +518,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 908,
+      "chars": 909,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 3497,
-      "chars": 18779,
+      "chars": 18780,
       "ideas": 811
     },
     "chapters": {
